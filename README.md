@@ -67,6 +67,7 @@ That's it, you are done! Expect an email next week!
   
 # Let's start
 
+
 ## Table of contents
 
 ### Part I - DB Setup & Data Ingest
